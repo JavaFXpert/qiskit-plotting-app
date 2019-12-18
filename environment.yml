@@ -1,10 +1,31 @@
 name: Qiskitenv
 dependencies:
-- python>=3.5
-- pip=18
-- matplotlib
-- notebook
-- ipywidgets
-- rise
+  - python>=3.5
+  - pip=18
+  - matplotlib
+  - notebook
+  - rise
+  - numpy
+  - scikit-image
+  - ipywidgets=7.5
+  - jupyterlab=1.0
+  - scipy
+  - bqplot
+  - pythreejs
+  - ipyvolume
+  - gdal
+  - krb5
+  - ipyleaflet
+  - ipysheet
+  - ipytree
+  - ipyevents
+  - voila
 - pip:
   - qiskit
+  - ipyvuetify
+  - voila-vuetify
+  - netcdf4
+  - sidecar
+channels:
+  - conda-forge
+  - defaults
