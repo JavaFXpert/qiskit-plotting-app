@@ -1,4 +1,5 @@
 qiskit-aer
+qiskit-aqua
 voila
 voila-material
 matplotlib
