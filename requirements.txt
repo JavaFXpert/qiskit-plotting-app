@@ -1,6 +1,5 @@
+qiskit
 voila
 voila-material
-qiskit
-qiskit-aer
 matplotlib
 ipywidgets
