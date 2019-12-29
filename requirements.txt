@@ -2,3 +2,4 @@ voila
 voila-material
 qiskit
 matplotlib
+ipywidgets
