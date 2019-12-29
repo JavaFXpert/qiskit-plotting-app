@@ -1,3 +1,4 @@
 voila
 voila-material
 qiskit
+matplotlib
