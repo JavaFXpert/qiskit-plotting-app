@@ -1,5 +1,5 @@
-qiskit-aer
-qiskit-aqua
+pip>=19.0
+qiskit
 voila
 voila-material
 matplotlib
