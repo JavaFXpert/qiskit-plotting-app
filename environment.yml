@@ -1,0 +1,14 @@
+name: Qiskitenv
+dependencies:
+- notebook
+- numpy
+- ipywidgets=7.5
+- voila
+- pip:
+  - qiskit
+  - matplotlib
+  - netcdf4
+  - sidecar
+channels:
+- conda-forge
+- defaults
