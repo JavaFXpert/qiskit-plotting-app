@@ -2,4 +2,4 @@ qiskit==0.11.0
 voila
 voila-material
 matplotlib
-ipywidgets
+ipywidgets==7.5
