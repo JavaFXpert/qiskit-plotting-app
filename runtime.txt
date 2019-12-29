@@ -1,2 +1,1 @@
 python-3.7.5
-env PYTHON_CONFIGURE_OPTS="--enable-shared" pyenv install 3.7.5
