@@ -1,5 +1,5 @@
 pip>=19.3.1
-qiskit
+qiskit==0.12.2
 voila
 voila-material
 matplotlib
